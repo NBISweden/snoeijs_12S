@@ -35,3 +35,5 @@ Gadidae; Gadus; Gadus chalcogrammus
 2. `build_12S_db.bash` script downloads a list of all `gbvrt*` (can be modified in the parameters section) files on GenBank FTP server, downloads file by file and processes it with `gb2fasta.py`. After being processed, the original GenBank file is removed. All sequences are stored in a fasta file (by output redirection mechanism).
 
 3. The `db_12S_stats.Rmd` file contains RMarkdown to generate a report about the created database. Fish pictures come from the Internet and they may be under some license so do not use them freely in a publication without checking this!
+
+You can see rendered report [here](https://htmlpreview.github.io/?https://github.com/NBISweden/snoeijs_12S/edit/main/db_12S_stats.html)).
