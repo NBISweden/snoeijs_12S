@@ -36,5 +36,4 @@ Gadidae; Gadus; Gadus chalcogrammus
 
 3. The `db_12S_stats.Rmd` file contains RMarkdown to generate a report about the created database. Fish pictures come from the Internet and they may be under some license so do not use them freely in a publication without checking this!
 
-~~You can see rendered report [here](https://htmlpreview.github.io/?https://www.dropbox.com/s/en4m8s7qasp0g0m/db_12S_stats.html?dl=0).~~
-To see rendered version of the report, clone the repo and open the html file locally. No preview on GitHub as long as the repo is private.]
+You can see rendered report [here](https://htmlpreview.github.io/?https://www.dropbox.com/s/en4m8s7qasp0g0m/db_12S_stats.html?dl=1).
